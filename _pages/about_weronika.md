@@ -1,0 +1,1 @@
+Weronika is pursuing a Master’s in Civil and Computer Engineering with an AI and Systems focus at Carnegie Mellon University. She previously studied computer science at Fairleigh Dickinson University with a concentration in cybersecurity and a minor in mathematics, and is interested in exploring opportunities beyond the classroom.
