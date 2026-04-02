@@ -10,7 +10,7 @@ ninja.data = [{
       window.location.href = "/ASB_Occupancy-Website/";
     },
   },{id: "nav-updates",
-          title: "Updates",
+          title: "updates",
           description: "",
           section: "Navigation",
           handler: () => {
