@@ -2,7 +2,7 @@
 layout: page
 permalink: /repositories/
 title: code repositories
-description: Edit the `_data/repositories.yml` and change the `github_users` and `github_repos` lists to include your own GitHub profile and repositories.
+description: Individual users and link to our group repo below
 nav: true
 nav_order: 4
 ---
@@ -13,4 +13,4 @@ github_users:
   - Weronika-Przedworska
 
 github_repos:
-  - CMU-ASB_Occupancy-Prediction-Group
+  - [CMU-ASB_Occupancy-Prediction-Group](https://github.com/OWNER/CMU-ASB_Occupancy-Prediction-Group)
