@@ -428,9 +428,9 @@ ninja.data = [{
           description: "Summarizing the current literature in this space",
           section: "Projects",handler: () => {
               window.location.href = "/ASB_Occupancy-Website/projects/1_project/";
-            },},{id: "projects-chose-classrooms",
-          title: 'Chose Classrooms',
-          description: "Documenting the CMU Classrooms we Placed our Sensors",
+            },},{id: "projects-chosen-classrooms",
+          title: 'Chosen Classrooms',
+          description: "Documenting the CMU Classrooms we placed our sensors",
           section: "Projects",handler: () => {
               window.location.href = "/ASB_Occupancy-Website/projects/2_project/";
             },},{id: "projects-project-3-with-very-long-name",
