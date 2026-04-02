@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Chose Classrooms 
-description: Documenting the CMU Classrooms we Placed our Sensors 
+title: Chosen Classrooms 
+description: Documenting the CMU Classrooms we placed our sensors 
 img: assets/img/3.jpg
 importance: 2
 category: work
