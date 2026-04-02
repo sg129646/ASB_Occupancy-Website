@@ -20,7 +20,7 @@ profiles:
     more_info: >
 
   - align: right
-    image: Another photo_screenshot.png
+    image: Stacy_headshot-3.png
     content: about_stacy.md
     image_circular: false
     more_info: >
