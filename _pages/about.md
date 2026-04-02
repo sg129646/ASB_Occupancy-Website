@@ -27,8 +27,14 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hi, We are a team of researchers at Carnegie Mellon University working as part of (12-770) the Autonomous Sustainable Buildings Course. We are currently using thermal sensors to eventually predict occupancy behavior in CMU classrooms. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Here are some links to cool previous work in this area and papers that we referenced: 
+1. **A review on occupancy prediction through machine learning for enhancing energy efficiency, air quality and thermal comfort in the built environment** ([Link](https://www.sciencedirect.com/science/article/pii/S1364032122005937))
+2. **DeBERTaV3: Improving DeBERTa using ELECTRA-Style Pre-Training with Gradient-Disentangled Embedding Sharing** (2021)  
+[Read paper](https://arxiv.org/abs/2111.09543)
+3.**Modeling and Prediction of Occupancy in Buildings Based on Sensor Data Using Deep Learning Methods** (2024)  
+[IEEE Xplore](https://ieeexplore.ieee.org/document/10606474)
+4.**Deep learning and multi-objective optimization for real-time occupancy-based energy control in smart buildings** (2025)  
+[Nature Scientific Reports](https://www.nature.com/articles/s41598-025-23134-4)
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
