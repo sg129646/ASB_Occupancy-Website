@@ -1,7 +1,7 @@
 ---
 layout: default
 permalink: /blog/
-title: Project Updates
+title: Updates
 nav: true
 nav_order: 1
 pagination:
