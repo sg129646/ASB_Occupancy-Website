@@ -1,0 +1,1 @@
+Stacy Godfreey-Igwe is a second-year PhD student in the joint program between Engineering & Public Policy and Civil & Environmental Engineering at Carnegie Mellon University. Her research focuses on residential energy consumption under extreme heat. She is excited to deepen her understanding of building physics through this course.
