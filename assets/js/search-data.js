@@ -433,9 +433,9 @@ ninja.data = [{
           description: "Documenting the CMU Classrooms we placed our sensors",
           section: "Projects",handler: () => {
               window.location.href = "/ASB_Occupancy-Website/projects/2_project/";
-            },},{id: "projects-project-3-with-very-long-name",
-          title: 'project 3 with very long name',
-          description: "a project that redirects to another website",
+            },},{id: "projects-project-plan-amp-major-updates",
+          title: 'Project Plan &amp;amp; Major Updates',
+          description: "Detailing the work we have done so far",
           section: "Projects",handler: () => {
               window.location.href = "/ASB_Occupancy-Website/projects/3_project/";
             },},{id: "projects-project-4",
