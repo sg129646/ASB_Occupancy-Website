@@ -1,0 +1,1 @@
+Avi Dube is a Computer Engineering Master's student at Carnegie Mellon University researching physical AI by integrating large language models, transformers, and vision systems to build general-purpose robots. He has experience in simulation and perception, from founding a cloud-based drone simulation startup to engineering real-time vision detection pipelines in Unreal Engine.
