@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 3 with very long name
-description: a project that redirects to another website
+title: Project Plan & Major Updates
+description: Detailing the work we have done so far 
 img: assets/img/7.jpg
 redirect: https://unsplash.com
 importance: 3
