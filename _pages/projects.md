@@ -1,6 +1,6 @@
 ---
 layout: page
-title: components
+title: project updates
 permalink: /projects/
 description: A growing collection of your cool projects.
 nav: true
