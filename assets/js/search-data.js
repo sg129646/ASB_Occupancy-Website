@@ -11,7 +11,7 @@ ninja.data = [{
     },
   },{id: "nav-project-updates",
           title: "project updates",
-          description: "A growing collection of your cool projects.",
+          description: "A place for project components and photos :)",
           section: "Navigation",
           handler: () => {
             window.location.href = "/ASB_Occupancy-Website/projects/";
