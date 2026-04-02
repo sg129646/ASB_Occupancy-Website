@@ -423,9 +423,9 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-project-plan",
-          title: 'Project Plan',
-          description: "with background image",
+          section: "News",},{id: "projects-literature-review",
+          title: 'Literature Review',
+          description: "Summarizing the current literature in this space",
           section: "Projects",handler: () => {
               window.location.href = "/ASB_Occupancy-Website/projects/1_project/";
             },},{id: "projects-chose-classrooms",
