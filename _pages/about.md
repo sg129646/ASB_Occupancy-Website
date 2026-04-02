@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='#'>Point of contact is sgodfree[at]andrew.cmu.edu
 
 profile:
   align: right
@@ -27,14 +27,19 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi, We are a team of researchers at Carnegie Mellon University working as part of (12-770) the Autonomous Sustainable Buildings Course. We are currently using thermal sensors to eventually predict occupancy behavior in CMU classrooms. 
+Hi, We are a team of researchers (Avi, Dharun, Stacy, Weronika) at Carnegie Mellon University working as part of (12-770) the Autonomous Sustainable Buildings Course. We are currently using thermal sensors to eventually predict occupancy behavior in CMU classrooms. 
 
-Here are some links to cool previous work in this area and papers that we referenced: 
-1. **A review on occupancy prediction through machine learning for enhancing energy efficiency, air quality and thermal comfort in the built environment** ([Link](https://www.sciencedirect.com/science/article/pii/S1364032122005937))
+Here are some links to prior work in this area:
+
+1. **A review on occupancy prediction through machine learning for enhancing energy efficiency, air quality and thermal comfort in the built environment**  
+   [Read paper](https://www.sciencedirect.com/science/article/pii/S1364032122005937)
+
 2. **DeBERTaV3: Improving DeBERTa using ELECTRA-Style Pre-Training with Gradient-Disentangled Embedding Sharing** (2021)  
-[Read paper](https://arxiv.org/abs/2111.09543)
-3.**Modeling and Prediction of Occupancy in Buildings Based on Sensor Data Using Deep Learning Methods** (2024)  
-[IEEE Xplore](https://ieeexplore.ieee.org/document/10606474)
-4.**Deep learning and multi-objective optimization for real-time occupancy-based energy control in smart buildings** (2025)  
-[Nature Scientific Reports](https://www.nature.com/articles/s41598-025-23134-4)
+   [Read paper](https://arxiv.org/abs/2111.09543)
+
+3. **Modeling and Prediction of Occupancy in Buildings Based on Sensor Data Using Deep Learning Methods** (2024)  
+   [Read paper](https://ieeexplore.ieee.org/document/10606474)
+
+4. **Deep learning and multi-objective optimization for real-time occupancy-based energy control in smart buildings** (2025)  
+   [Read paper](https://www.nature.com/articles/s41598-025-23134-4)
 
