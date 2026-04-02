@@ -31,6 +31,23 @@ horizontal: false
   {% endif %}
 </div>
 
+<hr class="my-5">
+
+<h2 class="mb-4">Project Photos</h2>
+<p class="text-muted">Snapshots from our work and development process.</p>
+
+<div class="row row-cols-1 row-cols-md-3 g-4">
+  <div class="col">
+    <img src="/assets/img/project-photo-1.jpg" alt="Project photo 1" class="img-fluid rounded shadow-sm">
+  </div>
+  <div class="col">
+    <img src="/assets/img/project-photo-2.jpg" alt="Project photo 2" class="img-fluid rounded shadow-sm">
+  </div>
+  <div class="col">
+    <img src="/assets/img/project-photo-3.jpg" alt="Project photo 3" class="img-fluid rounded shadow-sm">
+  </div>
+</div>
+
 <hr>
 
 <h2>Project Photos</h2>
