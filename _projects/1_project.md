@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Project Plan 
-description: with background image
+title: Literature Review
+description: Summarizing the current literature in this space 
 img: assets/img/12.jpg
 importance: 1
 category: work
