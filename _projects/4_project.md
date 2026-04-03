@@ -1,9 +1,9 @@
 ---
 layout: page
-title: project 4
-description: another without an image
+title: Extra Stuff
+description: Space to discuss anything else with the project 
 img:
-importance: 3
+importance: 5
 category: fun
 ---
 
