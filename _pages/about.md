@@ -31,7 +31,7 @@ Hi, We are a team of researchers (Avi, Dharun, Stacy, Weronika) at Carnegie Mell
 
 Here are some links to prior work in this area:
 
-1. **A review on occupancy prediction through machine learning for enhancing energy efficiency, air quality and thermal comfort in the built environment**  
+1. **A review on occupancy prediction through machine learning for enhancing energy efficiency, air quality and thermal comfort in the built environment**  (2022)
    [Read paper](https://www.sciencedirect.com/science/article/pii/S1364032122005937)
 
 2. **DeBERTaV3: Improving DeBERTa using ELECTRA-Style Pre-Training with Gradient-Disentangled Embedding Sharing** (2021)  
