@@ -3,7 +3,7 @@ layout: page
 title: Project Plan & Major Updates
 description: Detailing the work we have done so far 
 img: assets/img/7.jpg
-importance: 3
+importance: 2
 category: work
 ---
 
