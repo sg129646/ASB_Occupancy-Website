@@ -438,9 +438,9 @@ ninja.data = [{
           description: "Detailing the work we have done so far",
           section: "Projects",handler: () => {
               window.location.href = "/ASB_Occupancy-Website/projects/3_project/";
-            },},{id: "projects-project-4",
-          title: 'project 4',
-          description: "another without an image",
+            },},{id: "projects-extra-stuff",
+          title: 'Extra Stuff',
+          description: "Space to discuss anything else with the project",
           section: "Projects",handler: () => {
               window.location.href = "/ASB_Occupancy-Website/projects/4_project/";
             },},{id: "projects-project-5",
