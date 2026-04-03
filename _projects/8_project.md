@@ -1,9 +1,9 @@
 ---
 layout: page
-title: project 8
-description: an other project with a background image and giscus comments
+title: Extra Stuff
+description: Other miscellaneous parts of the project
 img: assets/img/9.jpg
-importance: 10
+importance: 5
 category: work
 giscus_comments: true
 nav: false
