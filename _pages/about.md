@@ -1,8 +1,8 @@
 ---
 layout: about
 title: about
-permalink: /about/
-subtitle: <a href="#">Point of contact is sgodfree[at]andrew.cmu.edu</a>
+permalink: /
+subtitle: <a href='#'>Point of contact is sgodfree@andrew.cmu.edu</a>.
 
 profile:
   align: right
