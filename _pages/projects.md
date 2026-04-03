@@ -79,8 +79,6 @@ horizontal: false
   <div class="col">
     <img src="/assets/img/classroom-2.jpeg" alt="Project photo 3" class="img-fluid rounded shadow-sm">
   </div>
-</div>
-  </div>
   <div class="col">
     <img src="/assets/img/breadboard.jpeg" alt="Project photo 4" class="img-fluid rounded shadow-sm">
   </div>
