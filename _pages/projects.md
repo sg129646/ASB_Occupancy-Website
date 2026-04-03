@@ -71,17 +71,17 @@ horizontal: false
 
 <div class="row row-cols-1 row-cols-md-3 g-4">
   <div class="col">
-    <img src="/assets/img/project-photo-1.jpg" alt="Project photo 1" class="img-fluid rounded shadow-sm">
+    <img src="/assets/img/weronika_measuring.png" alt="Project photo 1" class="img-fluid rounded shadow-sm">
   </div>
   <div class="col">
-    <img src="/assets/img/project-photo-2.jpg" alt="Project photo 2" class="img-fluid rounded shadow-sm">
+    <img src="/assets/img/schedule.png" alt="Project photo 2" class="img-fluid rounded shadow-sm">
   </div>
   <div class="col">
-    <img src="/assets/img/project-photo-3.jpg" alt="Project photo 3" class="img-fluid rounded shadow-sm">
+    <img src="/assets/img/classroom.png" alt="Project photo 3" class="img-fluid rounded shadow-sm">
   </div>
 </div>
   </div>
   <div class="col">
-    <img src="/assets/img/project-photo-3.jpg" alt="Project photo 3" class="img-fluid rounded shadow-sm">
+    <img src="/assets/img/breadboard.png" alt="Project photo 3" class="img-fluid rounded shadow-sm">
   </div>
 </div>
