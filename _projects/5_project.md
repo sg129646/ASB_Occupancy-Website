@@ -1,9 +1,9 @@
 ---
 layout: page
-title: project 5
-description: a project with a background image
+title: Final Document Uploads
+description: Place to provide slides, reports, etc. 
 img: assets/img/1.jpg
-importance: 3
+importance: 4
 category: fun
 ---
 
