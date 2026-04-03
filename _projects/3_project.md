@@ -3,7 +3,6 @@ layout: page
 title: Project Plan & Major Updates
 description: Detailing the work we have done so far 
 img: assets/img/7.jpg
-redirect: https://unsplash.com
 importance: 3
 category: work
 ---
