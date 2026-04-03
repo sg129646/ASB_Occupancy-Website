@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Point of contact is sgodfree[at]andrew.cmu.edu
+subtitle: subtitle: <a href="#">Point of contact is sgodfree[at]andrew.cmu.edu</a>
 
 profile:
   align: right
