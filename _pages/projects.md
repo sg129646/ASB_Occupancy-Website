@@ -82,6 +82,6 @@ horizontal: false
 </div>
   </div>
   <div class="col">
-    <img src="/assets/img/breadboard.png" alt="Project photo 3" class="img-fluid rounded shadow-sm">
+    <img src="/assets/img/breadboard.png" alt="Project photo 4" class="img-fluid rounded shadow-sm">
   </div>
 </div>
