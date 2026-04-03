@@ -3,8 +3,8 @@ const ninja = document.querySelector('ninja-keys');
 
 // add the home and posts menu items
 ninja.data = [{
-    id: "nav-about",
-    title: "about",
+    id: "nav-",
+    title: "",
     section: "Navigation",
     handler: () => {
       window.location.href = "/ASB_Occupancy-Website/";
@@ -30,19 +30,26 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/ASB_Occupancy-Website/people/";
           },
-        },{id: "dropdown-bookshelf",
-              title: "bookshelf",
+        },{id: "dropdown-lit-review",
+              title: "lit review",
               description: "",
               section: "Dropdown",
               handler: () => {
-                window.location.href = "/ASB_Occupancy-Website/books/";
+                window.location.href = "/ASB_Occupancy-Website/projects/1_project/";
               },
-            },{id: "dropdown-blog",
-              title: "blog",
+            },{id: "dropdown-",
+              title: "",
               description: "",
               section: "Dropdown",
               handler: () => {
-                window.location.href = "/ASB_Occupancy-Website/blog/";
+                window.location.href = "";
+              },
+            },{id: "dropdown-project-plan",
+              title: "project plan",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/ASB_Occupancy-Website/projects/3_project/";
               },
             },{id: "post-a-post-with-plotly-js",
         
@@ -479,25 +486,11 @@ ninja.data = [{
           section: "Teachings",handler: () => {
               window.location.href = "/ASB_Occupancy-Website/teachings/introduction-to-machine-learning/";
             },},{
-        id: 'social-cv',
-        title: 'CV',
-        section: 'Socials',
-        handler: () => {
-          window.open("/ASB_Occupancy-Website/assets/pdf/example_pdf.pdf", "_blank");
-        },
-      },{
         id: 'social-email',
         title: 'email',
         section: 'Socials',
         handler: () => {
-          window.open("mailto:%79%6F%75@%65%78%61%6D%70%6C%65.%63%6F%6D", "_blank");
-        },
-      },{
-        id: 'social-inspire',
-        title: 'Inspire HEP',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://inspirehep.net/authors/1010907", "_blank");
+          window.open("mailto:%73%67%6F%64%66%72%65%65@%61%6E%64%72%65%77.%63%6D%75.%65%64%75", "_blank");
         },
       },{
         id: 'social-rss',
@@ -507,18 +500,11 @@ ninja.data = [{
           window.open("/ASB_Occupancy-Website/feed.xml", "_blank");
         },
       },{
-        id: 'social-scholar',
-        title: 'Google Scholar',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://scholar.google.com/citations?user=qc6CJjYAAAAJ", "_blank");
-        },
-      },{
         id: 'social-custom_social',
         title: 'Custom_social',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.alberteinstein.com/", "_blank");
+          window.open("", "_blank");
         },
       },{
       id: 'light-theme',
