@@ -13,4 +13,4 @@ github_users:
   - Weronika-Przedworska
 
 github_repos:
-  - [CMU-ASB_Occupancy-Prediction-Group]([https://github.com/OWNER/CMU-ASB_Occupancy-Prediction-Group](https://github.com/sg129646/CMU-ASB_Occupancy-Prediction-Group))
+  - [CMU-ASB_Occupancy-Prediction-Group](https://github.com/sg129646/CMU-ASB_Occupancy-Prediction-Group)
