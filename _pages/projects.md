@@ -64,22 +64,4 @@ horizontal: false
 {% endif %}
 </div>
 
-<hr class="my-5">
-
-<h2>Project Photos</h2>
-<p class="text-muted">Snapshots from our project work and development process.</p>
-
-<div class="row row-cols-1 row-cols-md-3 g-4">
-  <div class="col">
-    <img src="{{ '/assets/img/weronika_measuring.jpeg' | relative_url }}" alt="Project photo 1" class="img-fluid rounded shadow-sm">
-  </div>
-  <div class="col">
-    <img src="{{ '/assets/img/schedule.jpeg' | relative_url }}" alt="Project photo 2" class="img-fluid rounded shadow-sm">
-  </div>
-  <div class="col">
-    <img src="{{ '/assets/img/classroom-2.jpeg' | relative_url }}" alt="Project photo 3" class="img-fluid rounded shadow-sm">
-  </div>
-  <div class="col">
-    <img src="{{ '/assets/img/breadboard.jpeg' | relative_url }}" alt="Project photo 4" class="img-fluid rounded shadow-sm">
-  </div>
-</div>
+<hr class="my-5"> <h2>Project Photos</h2> <p class="text-muted">Snapshots from our project work and development process.</p> <div class="row row-cols-1 row-cols-md-3 g-4"> <div class="col"> <img src="/assets/img/weronika_measuring.jpeg" alt="Project photo 1" class="img-fluid rounded shadow-sm"> </div> <div class="col"> <img src="/assets/img/schedule.jpeg" alt="Project photo 2" class="img-fluid rounded shadow-sm"> </div> <div class="col"> <img src="/assets/img/classroom-2.jpeg" alt="Project photo 3" class="img-fluid rounded shadow-sm"> </div> <div class="col"> <img src="/assets/img/breadboard.jpeg" alt="Project photo 4" class="img-fluid rounded shadow-sm"> </div> </div>
