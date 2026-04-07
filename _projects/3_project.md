@@ -1,13 +1,12 @@
 ---
 layout: page
 title: Project Plan & Major Updates
+subtitle: <span style="font-weight:700; font-size:1.25rem;">5-Week Project Plan</span>
 description: Work plan and milestones for our classroom occupancy prediction project
 img: assets/img/7.jpg
 importance: 2
 category: work
 ---
-
-subtitle: <a href='#' style="font-weight:700; font-size:1.25rem;">5-Week Project Plan</a>
 
 This schedule begins on **April 1, 2026**, with the **demo deadline on April 24, 2026** and the **final report deadline on May 3, 2026**.
 
