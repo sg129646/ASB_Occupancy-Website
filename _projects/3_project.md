@@ -1,80 +1,52 @@
 ---
 layout: page
 title: Project Plan & Major Updates
-description: Detailing the work we have done so far 
+description: Work plan and milestones for our classroom occupancy prediction project
 img: assets/img/7.jpg
 importance: 2
 category: work
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+## 5-Week Project Plan
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+This schedule begins on **April 1, 2026**, with the **demo deadline on April 24, 2026** and the **final report deadline on May 3, 2026**.
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+### Week 1 (April 5–April 11, 2026): Sensor Bring-Up and Data Pipeline Foundation
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
+- Integrate and calibrate the thermal sensor to reliably capture human movement and occupancy counts.
+- Build an initial occupancy tracking pipeline, including timestamping, count extraction, and basic quality checks.
+- Validate sensor placement and field of view in selected classrooms.
+- Define a data schema for merging occupancy counts with class schedules, class sizes, weather, and FCE signals.
+- **Milestone:** Produce the first end-to-end day of synchronized occupancy data.
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
+### Week 2 (April 12–April 18, 2026): Baseline Modeling and Early Prototype for Demo
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
+- Clean and preprocess collected data, including missing-interval handling, outlier checks, and feature generation.
+- Train and evaluate the linear regression baseline for day-ahead occupancy forecasting.
+- Train the proposed model on the same feature set and create initial comparison plots and tables using metrics such as MAE and RMSE.
+- **Milestone:** Generate preliminary baseline-versus-proposed model results.
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
+### Week 3 (April 19–April 24, 2026): Demo Hardening and Artifact Finalization
 
-{% raw %}
+- Perform targeted error analysis by time of day, room type, and scheduled versus unscheduled usage.
+- Improve model robustness and finalize the model version used for demo-day artifacts.
+- Produce a poster draft with the problem statement, method diagram, sensor setup, and key preliminary results.
+- **Milestone (April 24, 2026):** Present our findings during the demo.
 
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
+### Week 4 (April 25–May 1, 2026): Report Completion and Final Experiments
 
-{% endraw %}
+- Run final experiments with locked train, validation, and test splits and finalize all results tables and figures.
+- Expand the Method, Experiment, and Results sections with reproducible settings and clear metric definitions.
+- Add discussion of limitations, deployment considerations, and future work.
+- **Milestone:** Complete a near-final report draft.
+
+### Week 5 (May 2–May 3, 2026): Final Edits and Submission
+
+- Perform final proofreading, formatting, and consistency checks across the text, captions, and references.
+- Verify that all reported numbers match the latest experiment outputs.
+- Finalize the abstract and conclusion to reflect the final empirical findings.
+- **Milestone (May 3, 2026):** Submit the final report.
+
+## Notes
+
+This page documents the planned progression of the project from sensor deployment through model development, demo preparation, and final report submission.
