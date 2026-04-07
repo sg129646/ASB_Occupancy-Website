@@ -452,7 +452,7 @@ ninja.data = [{
               window.location.href = "/ASB_Occupancy-Website/projects/4_project/";
             },},{id: "projects-final-document-uploads",
           title: 'Final Document Uploads',
-          description: "Place to provide slides, reports, etc.",
+          description: "Slides, reports, and supporting materials for our occupancy prediction project",
           section: "Projects",handler: () => {
               window.location.href = "/ASB_Occupancy-Website/projects/5_project/";
             },},{id: "projects-project-6",
