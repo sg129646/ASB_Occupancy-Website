@@ -13,7 +13,7 @@ This page contains the major documents and presentation materials for our projec
 
 **Assignment 4 Progress Report**  
 Summary of our project direction, experimental plan, team responsibilities, and timeline.  
-<a href="assets/pdf/Assignment 4_ Learned and Agreed Upon.pdf" target="_blank">Open report →</a>
+<a href="assets/pdf/assignment4_learned.pdf" target="_blank">Open report →</a>
 
 <br>
 
