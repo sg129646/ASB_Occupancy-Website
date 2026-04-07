@@ -46,6 +46,3 @@ This schedule begins on **April 1, 2026**, with the **demo deadline on April 24,
 - Finalize the abstract and conclusion to reflect the final empirical findings.
 - **Milestone (May 3, 2026):** Submit the final report.
 
-## Notes
-
-This page documents the planned progression of the project from sensor deployment through model development, demo preparation, and final report submission.
