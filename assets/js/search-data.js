@@ -442,7 +442,7 @@ ninja.data = [{
               window.location.href = "/ASB_Occupancy-Website/projects/2_project/";
             },},{id: "projects-project-plan-amp-major-updates",
           title: 'Project Plan &amp;amp; Major Updates',
-          description: "Detailing the work we have done so far",
+          description: "Work plan and milestones for our classroom occupancy prediction project",
           section: "Projects",handler: () => {
               window.location.href = "/ASB_Occupancy-Website/projects/3_project/";
             },},{id: "projects-extra-stuff",
