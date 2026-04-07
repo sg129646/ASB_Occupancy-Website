@@ -7,7 +7,7 @@ importance: 2
 category: work
 ---
 
-##[5-Week Project Plan](https://www.sciencedirect.com/science/article/pii/S1364032122005937)
+subtitle: <a href='#' style="font-weight:700; font-size:1.25rem;">5-Week Project Plan</a>
 
 This schedule begins on **April 1, 2026**, with the **demo deadline on April 24, 2026** and the **final report deadline on May 3, 2026**.
 
