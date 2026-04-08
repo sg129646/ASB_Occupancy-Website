@@ -3,7 +3,7 @@ layout: page
 title: Extra Stuff
 description: Other miscellaneous parts of the project
 img: assets/img/9.jpg
-importance: 5
+importance: 10
 category: work
 giscus_comments: true
 nav: false
