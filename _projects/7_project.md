@@ -3,7 +3,7 @@ layout: page
 title: Final Uploads 
 description: Place to provide slides, reports, etc.
 img: assets/img/4.jpg
-importance: 8
+importance: 11
 category: work
 related_publications: true
 nav: false
