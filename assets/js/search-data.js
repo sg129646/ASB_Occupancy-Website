@@ -455,16 +455,6 @@ ninja.data = [{
           description: "Slides, reports, and supporting materials for our occupancy prediction project",
           section: "Projects",handler: () => {
               window.location.href = "/ASB_Occupancy-Website/projects/5_project/";
-            },},{id: "projects-final-uploads",
-          title: 'Final Uploads',
-          description: "Place to provide slides, reports, etc.",
-          section: "Projects",handler: () => {
-              window.location.href = "/ASB_Occupancy-Website/projects/7_project/";
-            },},{id: "projects-extra-stuff",
-          title: 'Extra Stuff',
-          description: "Other miscellaneous parts of the project",
-          section: "Projects",handler: () => {
-              window.location.href = "/ASB_Occupancy-Website/projects/8_project/";
             },},{id: "projects-project-9",
           title: 'project 9',
           description: "another project with an image 🎉",
