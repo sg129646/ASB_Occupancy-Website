@@ -7,7 +7,7 @@ importance: 4
 category: work
 ---
 
-TThis page contains the major documents and presentation materials for our project.
+This page contains the major documents and presentation materials for our project.
 
 ## Reports
 
@@ -23,4 +23,4 @@ Team agreements and key takeaways from Assignment 4.
 **Final Project Slide Deck**  
 Overview of the project, methodology, results, and key insights.
 
-<a href="/assets/pdf/Autonomous%20Sustainable%20Building%20Project%20Presentation.pptx" target="_blank">Download slides →</a>
+<a href="https://docs.google.com/presentation/d/1GYTJ3HfN5HbLmeJ3hu9SEfgMr1Qo7jkipzRQJJ5Y6aw/edit?usp=share_link" target="_blank">View slides →</a>
