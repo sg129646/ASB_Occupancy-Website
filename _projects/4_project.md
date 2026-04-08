@@ -4,7 +4,7 @@ title: Extra Stuff
 description: Space to discuss anything else with the project 
 img:
 importance: 5
-category: fun
+category: work
 ---
 
 Every project has a beautiful feature showcase page.
