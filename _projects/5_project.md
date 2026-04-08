@@ -14,7 +14,7 @@ This page contains the major documents and presentation materials for our projec
 **Assignment 4: Learned and Agreed Upon**  
 Team agreements and key takeaways from Assignment 4.
 
-<a href="/assets/pdf/assignment4_learned.pdf" target="_blank">Open report →</a>
+<a href="{{ '/assets/pdf/assignment4_learned.pdf' | relative_url }}" target="_blank">Open report →</a>
 
 ---
 
